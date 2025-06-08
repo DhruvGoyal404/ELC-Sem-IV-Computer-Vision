@@ -18,8 +18,8 @@ venv/
 *.asv
 
 # Ignore any directory named "Trails" anywhere
-Trails/
-*/Trails/
+Trials/
+*/Trials/
 
 # (Optional) If you also want to ignore your other project folders:
 # Test/  
