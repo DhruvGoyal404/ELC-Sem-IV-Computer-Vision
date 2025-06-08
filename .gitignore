@@ -1,5 +1,26 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Data / media files
 *.mp4
 *.fig
 *.csv
 *.asv
-__pycache__
+
+# Ignore any directory named "Trails" anywhere
+Trails/
+*/Trails/
+
+# (Optional) If you also want to ignore your other project folders:
+# Test/  
+# Youtube/
