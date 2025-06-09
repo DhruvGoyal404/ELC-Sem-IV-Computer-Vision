@@ -39,8 +39,8 @@ fprintf('  %d colors configured.\n', nColors);
 %% Step 2 – Video Setup & Frame Count
 fprintf('Step 2: Preparing video I/O...\n');
 videoPath       = 'fruit-and-vegetable-detection.mp4';
-outputVideoFile = 'final_output_pakka.mp4';
-logFile         = 'final_log_pakka.csv';
+outputVideoFile = 'june_final_output_pakka.mp4';
+logFile         = 'june_final_log_pakka.csv';
 
 v = VideoReader(videoPath);
 fprintf('  Input video: %s (%.1fs @ %.2f fps)\n', videoPath, v.Duration, v.FrameRate);
