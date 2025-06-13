@@ -12,7 +12,8 @@ venv/
 *.log
 
 # Data / media files
-*.mp4
+MATLAB/*.mp4
+Python/*.mp4
 *.fig
 *.csv
 *.asv
