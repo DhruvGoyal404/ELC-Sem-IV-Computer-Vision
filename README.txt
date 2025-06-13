@@ -1,23 +1,6 @@
 ===============================
 COLOR-BASED OBJECT DETECTION
 ===============================
-This folder contains all components of our ELC Activity submission for Semester IV.
-
---------------------------------------
-📁 1. Summary Report (PDF)
---------------------------------------
-- File: ELC_Activity_Sem_IV_2025.pdf
-- Contains detailed explanation of the problem statement, implementation in MATLAB & Python, evaluation, challenges, and future scope.
-
---------------------------------------
-📁 2. Presentation (PPT)
---------------------------------------
-- File: ELC_Summary_Presentation.pptx
-- Includes 10 slides covering project motivation, pipeline architecture, results, key insights, and more.
-
---------------------------------------
-📁 3. Code Section (Source Code + README)
---------------------------------------
 
 Structure:
     /Code/
