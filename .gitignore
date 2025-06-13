@@ -24,3 +24,5 @@ Trials/
 # (Optional) If you also want to ignore your other project folders:
 # Test/  
 # Youtube/
+
+.vscode/
