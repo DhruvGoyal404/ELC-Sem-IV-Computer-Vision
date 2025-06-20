@@ -42,12 +42,6 @@ How to Run:
    - 'fruit-and-vegetable-detection.mp4'
    (Stored in /Videos/ folder)
 
---------------------------------------
-Team Members:
-- Dhruv Goyal led the design of the color-segmentation pipeline and MATLAB implementation.
-- Shree Mishra developed and tested the Python batch script and handled API-based image acquisition.
-- Dhruv Goyal built the real-time webcam detector, optimized performance, and created the annotation tool for ground-truth generation.
-
 Institution:
 - Thapar Institute of Engineering & Technology
 
